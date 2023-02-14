@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "project computation intelligence"
+version = "0.1.0"
+description = ""
+authors = ["Filippo, Francesco, Giuseppe, Giuseppe"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+numpy = "^1.23.5"
+logging = "^0.4.9.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

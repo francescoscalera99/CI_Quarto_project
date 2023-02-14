@@ -1,0 +1,259 @@
+db: trained on defensive
+player0 : ReinforcementPlay
+player1 : DefensivePlayer
+
+ReinforcementPlay won: 5271 / 9932 (0.5307088199758356); ties 68
+we have these nuts for moves:
+hits: 25042
+NOhits: 13703
+calls: 46217
+special: 2201
+q_moves length 3786018
+we have these nuts for pieces:
+hits: 27244
+NOhits: 10526
+calls: 38815
+special: 1045
+q_moves length 4578890
+time: 338.23669695854187
+###############################
+
+db: trained on defensive
+player0 : ReinforcementPlay
+player1 : AggressivePlyer
+
+ReinforcementPlay won: 8201 / 9983 (0.8214965441250125); ties 17
+we have these nuts for moves:
+hits: 20785
+NOhits: 5570
+calls: 35013
+special: 457
+q_moves length 3786018
+we have these nuts for pieces:
+hits: 24583
+NOhits: 4557
+calls: 29485
+special: 345
+q_moves length 4578890
+time: 286.43519139289856
+###############################
+
+db: trained on defensive
+player0 : ReinforcementPlay
+player1 : SafePlayer
+
+ReinforcementPlay won: 498 / 9510 (0.05236593059936909); ties 490
+we have these nuts for moves:
+hits: 25000
+NOhits: 28772
+calls: 62655
+special: 8385
+q_moves length 3786018
+we have these nuts for pieces:
+hits: 25000
+NOhits: 20506
+calls: 50858
+special: 5352
+q_moves length 4578890
+time: 106.85641479492188
+###############################
+
+db: trained on defensive
+player0 : ReinforcementPlay
+player1 : RandomPlayer
+
+ReinforcementPlay won: 9139 / 9939 (0.9195090049300735); ties 61
+we have these nuts for moves:
+hits: 20443
+NOhits: 26023
+calls: 57364
+special: 1759
+q_moves length 3786018
+we have these nuts for pieces:
+hits: 15449
+NOhits: 26550
+calls: 43152
+special: 1153
+q_moves length 4578890
+time: 106.15688943862915
+###############################
+
+db: trained on random
+player0 : ReinforcementPlay
+player1 : DefensivePlayer
+
+ReinforcementPlay won: 4838 / 9911 (0.4881444859247301); ties 89
+we have these nuts for moves:
+hits: 19432
+NOhits: 24131
+calls: 50852
+special: 2451
+q_moves length 3658635
+we have these nuts for pieces:
+hits: 20721
+NOhits: 19195
+calls: 40896
+special: 980
+q_moves length 4205690
+time: 302.40926909446716
+###############################
+
+db: trained on random
+player0 : ReinforcementPlay
+player1 : AggressivePlayer
+
+ReinforcementPlay won: 8384 / 9988 (0.8394072887464958); ties 12
+we have these nuts for moves:
+hits: 19420
+NOhits: 6396
+calls: 34536
+special: 336
+q_moves length 3658635
+we have these nuts for pieces:
+hits: 20442
+NOhits: 8358
+calls: 28935
+special: 135
+q_moves length 4205690
+time: 304.5473680496216
+###############################
+
+db: trained on random
+player0 : ReinforcementPlay
+player1 : SafePlayer
+
+ReinforcementPlay won: 661 / 9412 (0.07022949426264344); ties 588
+we have these nuts for moves:
+hits: 20000
+NOhits: 34506
+calls: 69438
+special: 14271
+q_moves length 3658635
+we have these nuts for pieces:
+hits: 25000
+NOhits: 21131
+calls: 51291
+special: 5160
+q_moves length 4205690
+time: 88.6606068611145
+###############################
+
+db: trained on random
+player0 : ReinforcementPlay
+player1 : RandomPlayer
+
+ReinforcementPlay won: 9143 / 9939 (0.9199114599054231); ties 61
+we have these nuts for moves:
+hits: 19460
+NOhits: 26437
+calls: 56641
+special: 1601
+q_moves length 3658635
+we have these nuts for pieces:
+hits: 19502
+NOhits: 22386
+calls: 42987
+special: 1099
+q_moves length 4205690
+time: 76.06972908973694
+###############################
+
+
+
+
+db: trained on merge
+player0 : ReinforcementPlay
+player1 : DefensivePlayer
+
+ReinforcementPlay won: 4714 / 9933 (0.47457968388200944); ties 67
+we have these nuts for moves:
+hits: 24531
+NOhits: 17628
+calls: 49123
+special: 2250
+q_moves length 7415597
+we have these nuts for pieces:
+hits: 26539
+NOhits: 13379
+calls: 41045
+special: 1127
+q_moves length 8767581
+time: 1363.1357963085175
+###############################
+
+db: trained on merge
+player0 : ReinforcementPlay
+player1 : RandomPlayer
+
+ReinforcementPlay won: 9100 / 9952 (0.9143890675241158); ties 48
+we have these nuts for moves:
+hits: 20197
+NOhits: 26648
+calls: 57533
+special: 1588
+q_moves length 7415597
+we have these nuts for pieces:
+hits: 20003
+NOhits: 22245
+calls: 43381
+special: 1133
+q_moves length 8767581
+###############################
+
+db: trained on merge
+player0 : ReinforcementPlay
+player1 : AggressivePlayer
+
+ReinforcementPlay won: 7448 / 9996 (0.7450980392156863); ties 4
+we have these nuts for moves:
+hits: 21448
+NOhits: 5276
+calls: 34424
+special: 252
+q_moves length 7415597
+we have these nuts for pieces:
+hits: 24439
+NOhits: 5479
+calls: 30113
+special: 195
+q_moves length 8767581
+456.37774419784546
+###############################
+
+
+
+
+
+
+
+
+player0 : DefensivePlayer
+player1 : RandomPlayer
+
+DefensivePlayer won: 9182 / 9958 (0.9220727053625226); ties 42
+time: 238.8758842945099
+###############################
+
+player0 : DefensivePlayer
+player1 : AggressivePlayer
+
+DefensivePlayer won: 8351 / 10000 (0.8351); ties 0
+time: 376.3732097148895
+###############################
+
+player0 : DefensivePlayer
+player1 : SafePlayer
+
+DefensivePlayer won: 104 / 9964 (0.010437575270975512); ties 36
+time: 227.99542832374573
+###############################
+
+
+
+
+player0 : MinMaxPlayer3
+player1 : RandomPlayer
+
+MinMaxPlayer3 won: 10 / 10 (1.0); ties 0
+788.6620743274689
+###############################
